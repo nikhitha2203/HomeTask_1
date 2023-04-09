@@ -1,0 +1,40 @@
+         blog{
+                background-color:blue;
+                height:70px;
+                padding:5px;
+                }
+         center{
+                    border: 1px solid red;
+                    margin-top:3px;
+                    margin-bottom:200px;
+                    margin-right:500px;
+                    margin-left:500px;
+                    background-color:white;
+                    height:60px;
+                    font-size:11px;
+                }
+          sel{
+                   list-style-type:none;
+                   display :flex;
+                   justify-content:space-between;
+                   margin-top:10px;
+                    }
+          tile{
+                   float: left;
+                   margin-top:20px;
+               }
+          bu{
+                    background-color:rgb(207, 120, 13);
+                     }
+         im{
+                      background-color: #aaa;
+                      width: 120px;
+                      height:120px;
+                      margin-top:10px;
+                      margin-right:20px;
+                      float:left;
+                       }
+         tx{
+                      font-family:"Times-Roman";
+                      font-size:large;
+                      }
